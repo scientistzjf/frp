@@ -31,7 +31,7 @@ make -f Makefile.cross-compiles
 ~~改完之后再从新编译下就可以了。~~
 
 ##404html模板
-
+```
 <!DOCTYPE HTML>  
 <html>  
 <head>  
@@ -66,3 +66,4 @@ table{width:100%;height:100%;border:0;}
 </table>  
 </body>  
 </html>  
+```
